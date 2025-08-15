@@ -14,18 +14,16 @@
 
 _`Projet basé sur new-metrotab abandonné`_
 
-[left 100%](https://github.com/thierry-laval/P00-mes-archives/blob/master/images/new-metrotab-v3.jpg?raw=true)
+![Présentation NewMetrotab](https://github.com/thierry-laval/P00-mes-archives/blob/master/images/new-metrotab-v3.jpg?raw=true "Capture d'écran de l'extension")
 
 ***
 
 ### Table des matières
+
 1. [À propos](#-à-propos)
 2. [Fonctionnalités](#-fonctionnalités-principales)
 3. [Installation](#-installation)
 4. [Utilisation](#-usage)
-5. [Sauvegarde des paramètres](#sauvegarde-des-paramètres-dans-le-plugin-nouvelle-metrotab-v110-pour-google-chrome-développement)
-6. [Licence](#-licence)
-7. [Crédits](#-crédits)
 
 ***
 
