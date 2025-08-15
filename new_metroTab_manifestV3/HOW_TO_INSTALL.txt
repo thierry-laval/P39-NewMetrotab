@@ -1,0 +1,39 @@
+***** HOW TO INSTALL THE EXTENSION *****
+
+1. Unpack ZIP archive, remember location of "new_metroTab"
+
+2. Open extension page
+Open chrome://extensions
+or
+Use the menu: ⋮ > More tools > Extensions
+
+3. Enable "Developer mode" in the upper-right corner of the page
+
+4. Select "Load unpacked" option
+
+5. Find unpacked extension's folder "new_metroTab"
+
+6. Open the folder
+
+7. That's it. You can find the extension on the chrome://extensions page
+
+***** COMMENT INSTALLER L’EXTENSION *****
+Décompressez l’archive ZIP et notez l’emplacement du dossier new_metroTab
+
+Ouvrez la page des extensions
+Accédez à : chrome://extensions
+ou
+Menu Chrome : ⋮ > Plus d’outils > Extensions
+
+Activez le “Mode développeur”
+(coin supérieur droit de la page)
+
+Cliquez sur “Charger l’extension non empaquetée”
+
+Sélectionnez le dossier décompressé : new_metroTab
+
+Ouvrez le dossier
+
+C’est terminé !
+L’extension s’affichera dans la liste des extensions (chrome://extensions)
+
