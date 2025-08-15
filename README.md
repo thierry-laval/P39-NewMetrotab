@@ -14,6 +14,8 @@
 
 _`Projet basé sur new-metrotab abandonné`_
 
+[left 100%](https://github.com/thierry-laval/archives/blob/master/images/new-metrotab-v3.jpg?raw=true)-->
+
 ***
 
 ### Table des matières
@@ -103,14 +105,12 @@ Ce plugin remplace la page des nouveaux onglets Chrome par un tableau de bord pe
 
 ### Comment sauvegarder les réglages du plugin ?
 
-#### Sauvegarde des tuiles
-
 Les tuiles sont stockées dans la base de données indexée du navigateur, accessible par l'extension.
 
 **Attention :** La procédure suivante exécute un script dans le contexte de la page.  
 Ne l'exécutez pas sur d'autres sites (Facebook, messagerie, etc.) sans savoir précisément ce que fait le code.
 
-##### Étapes 01 pour télécharger la sauvegarde des tuiles :
+#### Étapes 01 pour télécharger la sauvegarde des tuiles :
 
 1. Ouvrez les options du plugin (survolez le badge utilisateur > Options)  
 2. Faites un clic droit n'importe où sur la page des options, puis sélectionnez **Inspecter** (souvent en dernier dans le menu)  
@@ -133,7 +133,7 @@ Appuyez sur Entrée pour exécuter le script
 
 La boîte de dialogue de téléchargement s'affiche, sauvegardez le fichier
 
-##### Étapes 02 sauvegarder les autres options ?
+#### Étapes 02 sauvegarder les autres options ?
 
 Effectuez la même procédure, puis collez ce code dans la console :
 
