@@ -16,7 +16,7 @@ _`Projet basé sur new-metrotab abandonné`_
 
 ***
 
-## Table des matières
+### Table des matières
 1. [À propos](#-à-propos)
 2. [Fonctionnalités](#-fonctionnalités-principales)
 3. [Installation](#-installation)
@@ -27,7 +27,7 @@ _`Projet basé sur new-metrotab abandonné`_
 
 ***
 
-## 🧩 À propos
+### 🧩 À propos
 
 Ce projet est une version remise à jour et améliorée de [new-metrotab](https://github.com/frabarz/new-metrotab), un plugin Chrome désormais abandonné par son auteur, [frabarz](https://github.com/frabarz).
 
@@ -43,7 +43,7 @@ Chrome n'accepte plus les extensions en Manifest V2, je la passe donc en V3.
 
 ***
 
-## 🎯 Fonctionnalités principales
+### 🎯 Fonctionnalités principales
 
 * Compatibilité avec Chrome manifest v3
 
@@ -55,7 +55,7 @@ Chrome n'accepte plus les extensions en Manifest V2, je la passe donc en V3.
 
 ***
 
-## 📥 Installation
+### 📥 Installation
 
 **Je ne pense pas la lister sur la boutique Chrome. Donc, si vous voulez la télécharger et l'utiliser :**
 
@@ -68,9 +68,9 @@ Chrome n'accepte plus les extensions en Manifest V2, je la passe donc en V3.
 
 ***
 
-## 🖱 Usage
+### 🖱 Usage
 
-### À quoi sert cette extension ?
+#### À quoi sert cette extension ?
 
 Ce plugin remplace la page des nouveaux onglets Chrome par un tableau de bord personnalisable avec :
 
@@ -78,7 +78,7 @@ Ce plugin remplace la page des nouveaux onglets Chrome par un tableau de bord pe
 * Un design épuré et organisable
 * Une intégration native avec Chrome
 
-### Utilisation de base
+#### Utilisation de base
 
 1. **Ajouter une tuile** :
    * Cliquez sur le bouton "+" en haut à droite
@@ -94,7 +94,7 @@ Ce plugin remplace la page des nouveaux onglets Chrome par un tableau de bord pe
    * Personnalisation du fond d'écran
    * Choix du thème (clair/sombre)
 
-### Raccourcis utiles
+#### Raccourcis utiles
 
 * `Alt+M` : Recherche rapide
 * `Ctrl+N` : Basculer mode nuit
@@ -110,7 +110,7 @@ Les tuiles sont stockées dans la base de données indexée du navigateur, acces
 **Attention :** La procédure suivante exécute un script dans le contexte de la page.  
 Ne l'exécutez pas sur d'autres sites (Facebook, messagerie, etc.) sans savoir précisément ce que fait le code.
 
-**Étapes 01 pour télécharger la sauvegarde des tuiles :**
+##### Étapes 01 pour télécharger la sauvegarde des tuiles :
 
 1. Ouvrez les options du plugin (survolez le badge utilisateur > Options)  
 2. Faites un clic droit n'importe où sur la page des options, puis sélectionnez **Inspecter** (souvent en dernier dans le menu)  
@@ -133,7 +133,7 @@ Appuyez sur Entrée pour exécuter le script
 
 La boîte de dialogue de téléchargement s'affiche, sauvegardez le fichier
 
-**Étapes 02 sauvegarder les autres options ?**
+##### Étapes 02 sauvegarder les autres options ?
 
 Effectuez la même procédure, puis collez ce code dans la console :
 
@@ -166,7 +166,7 @@ Effectuez la même procédure, puis collez ce code dans la console :
 
 ***
 
-### 📦 &nbsp; Technologies utilisées
+#### 📦 &nbsp; Technologies utilisées
 
 | Langages/Technos | Outils/Applications |
 |:----------------:|:-------------------:|
@@ -177,7 +177,7 @@ Effectuez la même procédure, puis collez ce code dans la console :
 
 ***
 
-#### 🌟 &nbsp; Améliorations possibles
+### 🌟 &nbsp; Améliorations possibles
 
 <details>
 <summary>📌 Voir la liste des améliorations</summary>
@@ -208,7 +208,7 @@ Copyright © 2025 [Thierry Laval](https://thierrylaval.dev)
 
 ***
 
-## 💖 &nbsp; Soutien
+### 💖 &nbsp; Soutien
 
 <a href="https://paypal.me/thierrylaval01" target="_blank" style="display: inline-block; margin-right: 1rem;">
   <img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="40">
